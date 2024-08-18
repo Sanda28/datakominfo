@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "OTB",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.836845338046004, -6.46445600379309 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.847678032600996, -6.44164617521909 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.830956028778004, -6.47361608248792 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.822804337497999, -6.47219257633082 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.757651696078995, -6.47527884723796 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.799354489730007, -6.48388063966498 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.857933378474996, -6.48768659769422 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.865135423238996, -6.57149043409025 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.861322438377996, -6.470790523122 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.822456643457997, -6.48044519404889 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.823488760177, -6.5412128818929 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.829322974142997, -6.52950395702425 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.824307766895004, -6.47526306639657 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.818344871715993, -6.45231415752056 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.828971773367002, -6.51530285008074 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.808690517280994, -6.51892520084929 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.853306442988, -6.47275866134513 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.814019231955001, -6.49125273198259 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.879031550860006, -6.48693858641151 ] } },
+{ "type": "Feature", "properties": { "Name": "OTB 12 Core" }, "geometry": { "type": "Point", "coordinates": [ 106.796630907932993, -6.46192401667082 ] } }
+]
+}

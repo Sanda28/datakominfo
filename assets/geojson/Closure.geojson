@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Closure",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Join Closure 24" }, "geometry": { "type": "Point", "coordinates": [ 106.817832231835993, -6.48284032108608 ] } },
+{ "type": "Feature", "properties": { "Name": "Join Closure 24" }, "geometry": { "type": "Point", "coordinates": [ 106.814187237702996, -6.49149395723857 ] } },
+{ "type": "Feature", "properties": { "Name": "Join Closure 24" }, "geometry": { "type": "Point", "coordinates": [ 106.808806108140004, -6.5186331366367 ] } },
+{ "type": "Feature", "properties": { "Name": "Join Closure 24" }, "geometry": { "type": "Point", "coordinates": [ 106.829591846810004, -6.53008779844829 ] } },
+{ "type": "Feature", "properties": { "Name": "Join Closure 24" }, "geometry": { "type": "Point", "coordinates": [ 106.878858324264002, -6.48734569633038 ] } },
+{ "type": "Feature", "properties": { "Name": "Join Closure 24" }, "geometry": { "type": "Point", "coordinates": [ 106.829049235861007, -6.51490454708153 ] } },
+{ "type": "Feature", "properties": { "Name": "Join Closure 24" }, "geometry": { "type": "Point", "coordinates": [ 106.876597641998998, -6.49517238049159 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "HH" }, "geometry": { "type": "Point", "coordinates": [ 106.796995225391996, -6.48618956160439 ] } },
+{ "type": "Feature", "properties": { "Name": "HH" }, "geometry": { "type": "Point", "coordinates": [ 106.825823806749995, -6.46032112939516 ] } },
+{ "type": "Feature", "properties": { "Name": "HH" }, "geometry": { "type": "Point", "coordinates": [ 106.825761375105998, -6.46077518123922 ] } },
+{ "type": "Feature", "properties": { "Name": "HH" }, "geometry": { "type": "Point", "coordinates": [ 106.796696083564001, -6.48622180380183 ] } }
+]
+}
